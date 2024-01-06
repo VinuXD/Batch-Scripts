@@ -1,9 +1,3 @@
-# Batch Scripts 
-
-<p align="center">
-Welcome to the Batch Scripts repository, your hub for powerful Batch Scripting on Windows! 🚀
-</p>
-
 ## Overview
 
 As part of my learning journey, I recently completed an engaging course on Batch Script Programming. Eager to solidify my newfound knowledge, I decided to actively apply what I learned by creating and sharing these scripts.
