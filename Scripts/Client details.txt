@@ -1,0 +1,12 @@
+
+Name: Vinu Varsath 
+Age: 7 
+Gender: Male 
+
+Name: Rahul 
+Age: 56 
+Gender: Female 
+ 
+Name: wvwv 
+Age: wvw 
+Gender: vwv 
